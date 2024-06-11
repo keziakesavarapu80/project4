@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>loginpage</title>
+    </head>
+    <style>
+        body {
+            background-color:green;
+          }
+    </style>
+    <body>
+     <form action="contactus.html">
+        User Name:<input type="text" name="u"><br>
+        Password:<input type="password" name="p"><br>
+        Email:<input type="email" name="office" id="office"><br>
+        Downloading now.. Progress... 
+        <progress value="400" max="500"></progress>
+        <input type="submit">
+    </form>
+</body>
+</html>
